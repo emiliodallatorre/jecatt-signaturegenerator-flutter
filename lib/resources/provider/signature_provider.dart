@@ -1,6 +1,6 @@
 import 'dart:async' show Future;
 import 'package:flutter/services.dart' show rootBundle;
-import 'package:jeve_signaturegenerator_flutter/models/signature_model.dart';
+import 'package:jecatt_signaturegenerator_flutter/models/signature_model.dart';
 
 class SignatureProvider {
   final SignatureModel signature;

@@ -1,11 +1,11 @@
 {
-    "name": "jeve_signaturegenerator_flutter",
-    "short_name": "jeve_signaturegenerator_flutter",
+    "name": "jecatt_signaturegenerator_flutter",
+    "short_name": "jecatt_signaturegenerator_flutter",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Generatore di firma mail per JEVE.",
+    "background_color": "#25376D",
+    "theme_color": "#25376D",
+    "description": "Generatore di firma mail per JECatt.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

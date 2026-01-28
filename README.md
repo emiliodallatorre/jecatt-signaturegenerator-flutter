@@ -1,6 +1,6 @@
-# jeve_signaturegenerator_flutter
+# jecatt_signaturegenerator_flutter
 
-Generatore di firma mail per JEVE.
+Generatore di firma mail per JECatt.
 
 ## Getting Started
 
